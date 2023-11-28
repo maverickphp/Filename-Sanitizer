@@ -1,4 +1,4 @@
-# **Filename Sanitizer Script**
+**Filename Sanitizer Script**
 
 ## **Description**
 This Python script, named `FilenameSanitizer.py`, is designed to traverse through all files in a specified directory and its subdirectories, and rename each file by removing spaces and brackets. The script ensures that no file conflicts occur by appending an incrementing number if a proposed filename already exists.
